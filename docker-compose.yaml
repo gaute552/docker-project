@@ -18,7 +18,7 @@ services:
 
   nginx-project:
     image: nginx:latest
-    container_name: nginx
+    container_name: nginx-project
     restart: always
     ports:
       - "80:80"
