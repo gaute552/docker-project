@@ -14,9 +14,9 @@ services:
     networks:
       - trade
     depends_on:
-      - mysql-trade
+      - mysql-project
 
-  nginx:
+  nginx-project:
     image: nginx:latest
     container_name: nginx
     restart: always
@@ -36,23 +36,23 @@ services:
   #PHPMYADMIN
   phpmyadmin:
     image: phpmyadmin/phpmyadmin
-    container_name: phpmyadmin-admin.trade.net
+    container_name: phpmyadmin-admin.project.net
     restart: always
     environment:
       - PMA_HOST=${PMA_HOST}
     ports:
       - "8080:80"
     depends_on:
-      - mysql-trade
+      - mysql-project
     networks:
       - trade
 
-  mysql-trade:
+  mysql-project:
     restart: always
-    container_name: mysql-trade
+    container_name: mysql-project
     image: mysql:8.1
     ports:
-      - 3306:3306
+      - 3311:3306
     volumes:
       - ./.config/server/data/mysql:/var/lib/mysql
     environment:
