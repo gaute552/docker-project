@@ -1,0 +1,3 @@
+[submodule "project-new/project-new"]
+	path = project-new/project-new
+	url = git@github.com:gaute552/project-new.git
