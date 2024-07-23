@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ddaa245a-5ef7-47e7-92a9-c04cc9e1de07" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/app/Actions/TableAction.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/app/Repositories/BaseRepository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/app/Repositories/BaseRepositoryInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/app/Repositories/Client/ClientRepository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/app/Repositories/Client/ClientRepositoryInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/app/Services/BaseService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/app/Services/ClientService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/config/menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/resources/admin-master.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/resources/assets/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/resources/assets/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/resources/assets/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/resources/assets/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/resources/assets/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/resources/assets/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/resources/assets/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/resources/assets/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/resources/assets/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/resources/assets/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/resources/assets/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/resources/assets/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/resources/assets/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/resources/assets/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/resources/assets/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/resources/css/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/resources/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/resources/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/resources/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/resources/js/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/resources/views/auth/login.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/resources/views/clients/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/resources/views/clients/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/resources/views/components/layouts/sidebar.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/resources/views/components/ui/buttons/button.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/resources/views/components/ui/forms/checkbox.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/resources/views/components/ui/forms/input.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/resources/views/components/ui/tables/table.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/resources/views/home/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-new/project-new/resources/views/layouts/main.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/.github/workflows/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/.github/workflows/main.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/app/Http/Controllers/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/app/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/bootstrap/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/bootstrap/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/bootstrap/cache/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/bootstrap/cache/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/bootstrap/providers.php" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/bootstrap/providers.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/config/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/config/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/config/cache.php" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/config/cache.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/config/database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/config/filesystems.php" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/config/filesystems.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/config/logging.php" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/config/logging.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/config/mail.php" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/config/mail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/config/queue.php" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/config/queue.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/config/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/config/services.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/config/session.php" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/config/session.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/database/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/database/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/database/factories/UserFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/database/factories/UserFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/database/migrations/0001_01_01_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/database/migrations/0001_01_01_000000_create_users_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/database/migrations/0001_01_01_000001_create_cache_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/database/migrations/0001_01_01_000001_create_cache_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/database/migrations/0001_01_01_000002_create_jobs_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/database/migrations/0001_01_01_000002_create_jobs_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/database/seeders/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/phpunit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/phpunit.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/public/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/public/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/public/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/resources/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/resources/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/resources/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/resources/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/routes/console.php" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/routes/console.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/storage/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/storage/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/storage/app/public/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/storage/app/public/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/storage/framework/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/storage/framework/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/storage/framework/cache/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/storage/framework/cache/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/storage/framework/cache/data/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/storage/framework/cache/data/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/storage/framework/sessions/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/storage/framework/sessions/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/storage/framework/testing/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/storage/framework/testing/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/storage/framework/views/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/storage/framework/views/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/storage/logs/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/storage/logs/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/tests/Feature/ExampleTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/tests/Feature/ExampleTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/tests/TestCase.php" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/tests/TestCase.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/tests/Unit/ExampleTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/tests/Unit/ExampleTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-new/project-new/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/project-new/project-new/vite.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2jH5dCWArxuSZijKsYjp31lQrBL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "//wsl.localhost/Ubuntu-22.04/home/vs/Trading",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl.localhost\Ubuntu-22.04\home\vs\Trading\project-new\project-new" />
+      <recent name="\\wsl.localhost\Ubuntu-22.04\home\vs\Trading" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-php-predefined-ba97393d7c68-74080bdb84d3-com.jetbrains.php.sharedIndexes-PS-233.11799.232" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddaa245a-5ef7-47e7-92a9-c04cc9e1de07" name="Changes" comment="" />
+      <created>1721031246562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721031246562</updated>
+      <workItem from="1721031247663" duration="3287000" />
+      <workItem from="1721060329750" duration="45000" />
+      <workItem from="1721135429592" duration="477000" />
+      <workItem from="1721140371304" duration="2145000" />
+      <workItem from="1721393736642" duration="402000" />
+      <workItem from="1721403406959" duration="617000" />
+      <workItem from="1721411902119" duration="399000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
